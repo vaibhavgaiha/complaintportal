@@ -1,0 +1,44 @@
+
+.header{
+    background-color: #483D8B;
+    color: whitesmoke;
+    top: 20px;
+    padding: 8px;
+}
+.logo{
+    position: absolute;
+    width: 8%;
+    height: 80%;
+    left: 0%;
+    top: 2%;
+    border: transparent;
+    border-radius: 3px;
+    margin: 10px;
+    float: left;
+}
+h1{
+    text-align: center;
+    color: #2a1770;
+}
+.x1{
+    margin-bottom: 10px;
+
+}
+#bt1{
+    float: left;
+    margin-bottom: 20px;
+}
+#bt2{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    float: left;
+}
+#bt3{
+    float: right;
+    margin-bottom: 20px;
+}
+
+.withgly{
+    display: inline-block;
+    margin-right: 30%;
+}
